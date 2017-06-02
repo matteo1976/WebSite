@@ -2,4 +2,6 @@ C64 loading screen with redirection created (by gutting half of the source) from
 
 To change the loading text, Lines 219 & 222 of c64.css
 
+To change the page header Line 4 of index.html
+
 To change the redirection page Line 7 of index.html
