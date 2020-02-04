@@ -1,0 +1,22 @@
+
+/* palete color */
+:root {
+  --dark_color:#354458;
+  --blue_color:#3a9ad9;
+  --green_color:#29aba4;
+  --white_color:#e9e0d6;
+}
+
+
+
+header{
+    text-align: center;
+    background-color:var(--dark_color); 
+}
+
+a{
+    text-decoration: none;
+    margin-right: 10%;
+    color:var(--white_color);
+
+}
